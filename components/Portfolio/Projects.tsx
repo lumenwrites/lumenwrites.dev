@@ -119,7 +119,7 @@ export default function Projects() {
           img={'/projects/digital-art.png'}
           tags={['houdini', 'maya', 'photoshop', 'affinity']}
         >
-          <p>Computer Graphics and Digital Art I'm creating.</p>
+          <p>Computer Graphics and Digital Art I&apos;m creating.</p>
         </ProjectCard>
       </div>
     </div>

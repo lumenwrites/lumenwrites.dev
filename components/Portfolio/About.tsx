@@ -26,7 +26,7 @@ export default function About() {
             people, improve my skills, grow as a developer, and build some cool stuff with you!
           </p>
           <p>
-            If you're interested in working with me, shoot me an email: <b>lumenwrites@gmail.com</b>
+            If you&apos;re interested in working with me, shoot me an email: <b>lumenwrites@gmail.com</b>
           </p>
           <p>(I can only accept work at a company that is able to sponsor a UK/US/Canadian work visa.)</p>
           <div className="social-icons">
