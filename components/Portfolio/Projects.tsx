@@ -121,6 +121,17 @@ export default function Projects() {
         >
           <p>Computer Graphics and Digital Art I&apos;m creating.</p>
         </ProjectCard>
+        <ProjectCard
+          title="Nexy"
+          href={'https://nexy.io'}
+          img={'/projects/nexy.png'}
+          tags={['next.js', 'prisma', 'vercel']}
+        >
+          <p>
+            A publishing platform and a community of makers who use technology to build cool projects and turn them into
+            profitable businesses (work in progress).
+          </p>
+        </ProjectCard>
       </div>
     </div>
   )
