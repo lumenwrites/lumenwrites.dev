@@ -125,7 +125,7 @@ export default function Projects() {
           title="Nexy"
           href={'https://nexy.io'}
           img={'/projects/nexy.png'}
-          tags={['next.js', 'prisma', 'vercel']}
+          tags={['next.js', 'prisma', 'vercel', 'aws']}
         >
           <p>
             A publishing platform and a community of makers who use technology to build cool projects and turn them into
