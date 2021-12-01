@@ -78,14 +78,14 @@ export default function Projects() {
             month at its peak.
           </p>
         </ProjectCard>
-        {/* <ProjectCard
+        <ProjectCard
           title="Webacademy"
           href={'https://webacademy.io'}
           img={'/projects/webacademy.png'}
           tags={['python', 'django', 'bootstrap', 'jquery']}
         >
           <p>Discover the best tutorials and courses submitted by the programming community.</p>
-        </ProjectCard> */}
+        </ProjectCard>
         <ProjectCard
           title="Helix"
           href={'https://helix.startuplab.io'}
