@@ -5,6 +5,45 @@ export default function Projects() {
     <div className="projects">
       <h2>Projects</h2>
       <div className="wrapper">
+      <ProjectCard
+          title="Writing Streak"
+          href={'https://writingstreak.io'}
+          img={'/projects/writingstreak.png'}
+          tags={['react', 'redux', 'node', 'express']}
+        >
+          <p>
+            An app that helps writers to be more productive and develop a consistent writing habit. Has 5000+ users from
+            organic growth.
+          </p>
+        </ProjectCard>
+
+        <ProjectCard
+          title="Nulis"
+          href={'https://nulis.io'}
+          img={'/projects/nulis.png'}
+          tags={['react', 'redux', 'node', 'express']}
+        >
+          <p>
+            A mind-mapping tool for writers, an app for collecting and organizing knowledge. Has 1500+ users from
+            organic growth.
+          </p>
+        </ProjectCard>
+
+        <ProjectCard
+          title="RPG Adventures"
+          href={'https://rpgadventures.io'}
+          img={'/projects/rpgadventures.jpg'}
+          tags={['next.js (static generation)', 'mdx', 'vercel', 'stripe']}
+        >
+          <p>
+            A platform where I publish my adventures for table-top roleplaying games. I have also used it to launch my{' '}
+            <a href="https://rpgadventures.io/course/adventure-academy" target="_blank" rel="noopener noreferrer">
+              adventure writing course
+            </a>
+            .
+          </p>
+        </ProjectCard>
+
         <ProjectCard
           title="Godot Assets"
           href={'https://godotassets.io'}
@@ -16,6 +55,20 @@ export default function Projects() {
             see on the website have also been developed by me).
           </p>
         </ProjectCard>
+ 
+        <ProjectCard
+          title="Godot Academy"
+          href={'https://godotacademy.io'}
+          img={'/projects/godotacademy.png'}
+          tags={['next.js (static generation)', 'mdx', 'vercel', 'stripe']}
+        >
+          <p>
+            My gamedev tutorials. Uses the same platform as RPG Adventures, but showcases my tutorial making and
+            technical writing skills.
+          </p>
+        </ProjectCard>
+  
+        
         <ProjectCard
           title="Sketch Club"
           href={'https://sketchclub.io'}
@@ -31,42 +84,7 @@ export default function Projects() {
             .
           </p>
         </ProjectCard>
-        <ProjectCard
-          title="Writing Streak"
-          href={'https://writingstreak.io'}
-          img={'/projects/writingstreak.png'}
-          tags={['react', 'redux', 'node', 'express']}
-        >
-          <p>
-            An app that helps writers to be more productive and develop a consistent writing habit. Has 5000+ users from
-            organic growth.
-          </p>
-        </ProjectCard>
-        <ProjectCard
-          title="Nulis"
-          href={'https://nulis.io'}
-          img={'/projects/nulis.png'}
-          tags={['react', 'redux', 'node', 'express']}
-        >
-          <p>
-            A mind-mapping tool for writers, an app for collecting and organizing knowledge. Has 1500+ users from
-            organic growth.
-          </p>
-        </ProjectCard>
-        <ProjectCard
-          title="RPG Adventures"
-          href={'https://rpgadventures.io'}
-          img={'/projects/rpgadventures.jpg'}
-          tags={['next.js (static generation)', 'mdx', 'vercel', 'stripe']}
-        >
-          <p>
-            A platform where I publish my adventures for table-top roleplaying games. I have also used it to launch my{' '}
-            <a href="https://rpgadventures.io/course/adventure-academy" target="_blank" rel="noopener noreferrer">
-              adventure writing course
-            </a>
-            .
-          </p>
-        </ProjectCard>
+
         <ProjectCard
           title="Lumiverse"
           href={'https://lumiverse.io'}
@@ -78,14 +96,7 @@ export default function Projects() {
             month at its peak.
           </p>
         </ProjectCard>
-        <ProjectCard
-          title="Webacademy"
-          href={'https://webacademy.io'}
-          img={'/projects/webacademy.png'}
-          tags={['python', 'django', 'bootstrap', 'jquery']}
-        >
-          <p>Discover the best tutorials and courses submitted by the programming community.</p>
-        </ProjectCard>
+
         <ProjectCard
           title="Helix"
           href={'https://helix.startuplab.io'}
@@ -94,17 +105,17 @@ export default function Projects() {
         >
           <p>A habit tracking app - simple, but I think it turned out pretty well, I’m proud of its design.</p>
         </ProjectCard>
+        
         <ProjectCard
-          title="Godot Academy"
-          href={'https://godotacademy.io'}
-          img={'/projects/godotacademy.png'}
-          tags={['next.js (static generation)', 'mdx', 'vercel', 'stripe']}
+          title="Webacademy"
+          href={'https://webacademy.io'}
+          img={'/projects/webacademy.png'}
+          tags={['python', 'django', 'bootstrap', 'jquery']}
         >
-          <p>
-            My gamedev tutorials. Uses the same platform as RPG Adventures, but showcases my tutorial making and
-            technical writing skills.
-          </p>
+          <p>Discover the best tutorials and courses submitted by the programming community.</p>
         </ProjectCard>
+
+  
         <ProjectCard
           title="Digital Mind"
           href={'https://digitalmind.io'}
