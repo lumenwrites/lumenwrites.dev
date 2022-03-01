@@ -28,7 +28,7 @@ export default function About() {
           <p>
             If you&apos;re interested in working with me, shoot me an email: <b>lumenwrites@gmail.com</b>
           </p>
-          <p>(I can only accept work at a company that is able to sponsor a UK/US/Canadian work visa.)</p>
+          {/* <p>(I can only accept work at a company that is able to sponsor a UK/US/Canadian work visa.)</p> */}
           <div className="social-icons">
             <a href="https://github.com/lumenwrites" target="_blank" rel="noopener noreferrer">
               <FontAwesomeIcon icon={['fab', 'github']} />
