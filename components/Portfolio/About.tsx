@@ -23,7 +23,7 @@ export default function About() {
           <p>
             I know how to take responsibility for successfully building and delivering a product. I can find ways to
             contribute value to your company, resourcefully overcome obstacles, and solve technical problems without the
-            need for supervision. I have a lot of writing experience, so I'm good at communicaiton. I'm also good at
+            need for supervision. I have a lot of writing experience, so I&apos;m good at communicaiton. I&apos;m also good at
             teaching my skills to other people (and I enjoy doing that very much).
           </p>
           <p>
