@@ -13,8 +13,7 @@ export default function About() {
           <p>
             I have designed, developed, and launched multiple websites and applications currently used by thousands of
             people, built online communities with thousands of members, built mailing lists and social media audiences
-            with thousands of followers. All the projects above have been designed and developed by me, from idea to
-            launch.
+            with thousands of followers.
           </p>
           <p>
             I am experienced in (and passionate about) all parts of the web development process - generating ideas,

@@ -80,12 +80,18 @@ header {
   h2 {
     color: #f66303;
   }
+  .subtitle {
+    text-align: center;
+    p {
+      margin-top: 0px;
+    }
+  }
 }
 
-.projects .wrapper {
+.projects .projects-wrapper {
   display: flex;
   flex-wrap: wrap;
-  padding: 20px 0;
+  padding: 0px 0 20px 0;
 }
 
 .project {
