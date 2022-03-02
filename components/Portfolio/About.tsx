@@ -7,14 +7,14 @@ export default function About() {
         <div className="wrapper">
           <h2>About</h2>
           <p>
-            I am a full-stack web developer specializing in building interactive websites and applications using the
-            modern technologies (React, Next.js, Node, GraphQL).
+            I am a full-stack web developer with 8+ years of experience, specializing in building interactive websites
+            and applications using the modern technologies (React, Next.js, Node, GraphQL, etc).
           </p>
           <p>
-            I have designed, built, and launched multiple personal projects currently used by thousands of people, so I
-            know how to take responsibility for successfully building and delivering a product. I can find ways to
-            contribute value to your company, resourcefully overcome obstacles, and solve technical problems without the
-            need for supervision. I enjoy teaching and helping other people as well.
+            I have designed, developed, and launched multiple websites and applications currently used by thousands of
+            people, built online communities with thousands of members, built mailing lists and social media audiences
+            with thousands of followers. All the projects above have been designed and developed by me, from idea to
+            launch.
           </p>
           <p>
             I am experienced in (and passionate about) all parts of the web development process - generating ideas,
@@ -22,7 +22,13 @@ export default function About() {
             managing and building the product, launching and marketing.
           </p>
           <p>
-            I am looking for opportunities to work on meaningful projects in a small team of friendly and intelligent
+            I know how to take responsibility for successfully building and delivering a product. I can find ways to
+            contribute value to your company, resourcefully overcome obstacles, and solve technical problems without the
+            need for supervision. I have a lot of writing experience, so I'm good at communicaiton. I'm also good at
+            teaching my skills to other people (and I enjoy doing that very much).
+          </p>
+          <p>
+            I am looking for opportunities to work on meaningful projects in a team of friendly and intelligent
             people, improve my skills, grow as a developer, and build some cool stuff with you!
           </p>
           <p>

@@ -5,15 +5,15 @@ export default function Projects() {
     <div className="projects">
       <h2>Projects</h2>
       <div className="wrapper">
-        <ProjectCard
+      <ProjectCard
           title="Writing Streak"
           href={'https://writingstreak.io'}
           img={'/projects/writingstreak.png'}
           tags={['react', 'redux', 'node', 'express']}
         >
           <p>
-            Writing and publishing platform that helps writers to build a writing habit by tracking their analytics.
-            5000+ users from growth by word of mouth, most active users use it 100s days in a row.
+            An app that helps writers to be more productive and develop a consistent writing habit. Has 5000+ users from
+            organic growth.
           </p>
         </ProjectCard>
 
@@ -24,9 +24,8 @@ export default function Projects() {
           tags={['react', 'redux', 'node', 'express']}
         >
           <p>
-            Mind-mapping software that helps writers collect and organize their knowledge, develop their ideas.
-            <br />
-            1500+ users.
+            A mind-mapping tool for writers, an app for collecting and organizing knowledge. Has 1500+ users from
+            organic growth.
           </p>
         </ProjectCard>
 
@@ -37,11 +36,11 @@ export default function Projects() {
           tags={['next.js (static generation)', 'mdx', 'vercel', 'stripe']}
         >
           <p>
-            A platform for publishing adventures for table-top roleplaying games. It is also used to host my{' '}
+            A platform where I publish my adventures for table-top roleplaying games. I have also used it to launch my{' '}
             <a href="https://rpgadventures.io/course/adventure-academy" target="_blank" rel="noopener noreferrer">
               adventure writing course
             </a>
-            . 300+ students are attending my creative writing workshops.
+            .
           </p>
         </ProjectCard>
 
@@ -54,11 +53,9 @@ export default function Projects() {
           <p>
             A marketplace where people can discover, publish, and sell assets for the Godot game engine (most assets you
             see on the website have also been developed by me).
-            <br />
-            1600+ subscribers on the mailing list.
           </p>
         </ProjectCard>
-
+ 
         <ProjectCard
           title="Godot Academy"
           href={'https://godotacademy.io'}
@@ -68,11 +65,10 @@ export default function Projects() {
           <p>
             My gamedev tutorials. Uses the same platform as RPG Adventures, but showcases my tutorial making and
             technical writing skills.
-            <br />
-            2300+ YouTube subscribers.
           </p>
         </ProjectCard>
-
+  
+        
         <ProjectCard
           title="Sketch Club"
           href={'https://sketchclub.io'}
@@ -85,8 +81,7 @@ export default function Projects() {
             <a href="/files/Sketch%20Club%20Project%20Report.pdf" target="_blank" rel="noopener noreferrer">
               here
             </a>
-            . <br />
-            1700+ Discord members.
+            .
           </p>
         </ProjectCard>
 
@@ -110,7 +105,7 @@ export default function Projects() {
         >
           <p>A habit tracking app - simple, but I think it turned out pretty well, I’m proud of its design.</p>
         </ProjectCard>
-
+        
         <ProjectCard
           title="Webacademy"
           href={'https://webacademy.io'}
@@ -120,6 +115,7 @@ export default function Projects() {
           <p>Discover the best tutorials and courses submitted by the programming community.</p>
         </ProjectCard>
 
+  
         <ProjectCard
           title="Digital Mind"
           href={'https://digitalmind.io'}
