@@ -7,6 +7,8 @@ export default function Header() {
       <Image src="/img/photo-square.jpg" width={150} height={150} className="avatar" />
       {/* <h1>Lumen</h1> */}
       <h1>Vlad</h1>
+      {/* <h1>Vladislav Podchufarov</h1> */}
+      {/* <h2>(aka Mike)</h2> */}
       <div className="tagline">Full-Stack Web Developer</div>
       <div className="email">lumenwrites@gmail.com</div>
       <a href="https://github.com/lumenwrites" target="_blank" rel="noopener noreferrer" className="link">
