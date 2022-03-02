@@ -16,7 +16,7 @@ export default function Projects() {
         >
           <p>
             Writing and publishing platform that helps writers to build a writing habit by tracking their analytics.
-            5000+ users from growth by word of mouth, most active users use it 100s days in a row.
+            5000+ users from organic growth by word of mouth, the most active users use it for 100s days in a row.
           </p>
         </ProjectCard>
 
