@@ -4,9 +4,9 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 export default function Header() {
   return (
     <header>
-      <Image src="/img/photo-square.jpg" width={150} height={150} className="avatar" />
+      {/* <Image src="/img/photo-square.jpg" width={150} height={150} className="avatar" /> */}
       {/* <h1>Lumen</h1> */}
-      <h1>Vlad</h1>
+      <h1>Vladislav Podchufarov</h1>
       {/* <h1>Vladislav Podchufarov</h1> */}
       {/* <h2>(aka Mike)</h2> */}
       <div className="tagline">Full-Stack Web Developer</div>
