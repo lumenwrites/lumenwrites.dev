@@ -7,7 +7,7 @@ export default function About() {
         <div className="wrapper">
           <h2>About</h2>
           <p>
-            I am a full-stack web developer with 8+ years of experience, specializing in building interactive websites
+            I am a full-stack web developer specializing in building interactive websites
             and applications using the modern technologies (React, Next.js, Node, GraphQL, etc).
           </p>
           <p>
