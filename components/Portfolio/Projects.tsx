@@ -146,8 +146,7 @@ export default function Projects() {
           tags={['next.js', 'prisma', 'vercel', 'aws']}
         >
           <p>
-            A publishing platform and a community of makers who use technology to build cool projects and turn them into
-            profitable businesses (early beta, work in progress).
+            A publishing platform and a community of digital writers who exchange advice and feedback and help each other get better at writing (early beta, work in progress).
           </p>
         </ProjectCard>
       </div>
