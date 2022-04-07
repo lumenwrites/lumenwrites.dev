@@ -4,9 +4,9 @@ export default function Projects() {
   return (
     <div className="projects">
       <h2>Projects</h2>
-      <div className="wrapper subtitle">
+      {/* <div className="wrapper subtitle">
         <p> All the projects below have been designed and developed by me, from idea to launch. </p>
-      </div>
+      </div> */}
       <div className="wrapper projects-wrapper">
         <ProjectCard
           title="Writing Streak"

@@ -39,7 +39,7 @@ export default function About() {
               <FontAwesomeIcon icon={['fab', 'github']} />
               GitHub
             </a>
-            <a href="/files/Vladislav%20Podchufarov%20CV.pdf" target="_blank" rel="noopener noreferrer">
+            <a href="/files/Vladislav%20Podchufarov.pdf" target="_blank" rel="noopener noreferrer">
               <FontAwesomeIcon icon={['fas', 'poll-h']} />
               Resume
             </a>
