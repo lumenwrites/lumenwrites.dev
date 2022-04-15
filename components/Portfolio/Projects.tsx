@@ -15,8 +15,10 @@ export default function Projects() {
           tags={['react', 'redux', 'node', 'express']}
         >
           <p>
-            Writing and publishing platform that helps writers to build a writing habit by tracking their analytics.
-            5000+ users from organic growth by word of mouth, the most active users use it for 100s days in a row.
+            Writing and publishing platform that helps writers to build a
+            writing habit by tracking their analytics. 5000+ users from organic
+            growth by word of mouth, the most active users use it for 100s days
+            in a row.
           </p>
         </ProjectCard>
 
@@ -27,7 +29,8 @@ export default function Projects() {
           tags={['react', 'redux', 'node', 'express']}
         >
           <p>
-            Mind-mapping software that helps writers collect and organize their knowledge, develop their ideas.
+            Mind-mapping software that helps writers collect and organize their
+            knowledge, develop their ideas.
             <br />
             1500+ users.
           </p>
@@ -40,8 +43,13 @@ export default function Projects() {
           tags={['next.js (static generation)', 'mdx', 'vercel', 'stripe']}
         >
           <p>
-            A platform for publishing adventures for table-top roleplaying games. It is also used to host my{' '}
-            <a href="https://rpgadventures.io/course/adventure-academy" target="_blank" rel="noopener noreferrer">
+            A platform for publishing adventures for table-top roleplaying
+            games. It is also used to host my{' '}
+            <a
+              href="https://rpgadventures.io/course/adventure-academy"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
               adventure writing course
             </a>
             . 300+ students are attending my creative writing workshops.
@@ -55,8 +63,9 @@ export default function Projects() {
           tags={['next.js', 'react', 'aws', 'prisma', 'vercel', 'stripe']}
         >
           <p>
-            A marketplace where people can discover, publish, and sell assets for the Godot game engine (most assets you
-            see on the website have also been developed by me).
+            A marketplace where people can discover, publish, and sell assets
+            for the Godot game engine (most assets you see on the website have
+            also been developed by me).
             <br />
             1600+ subscribers on the mailing list.
           </p>
@@ -69,8 +78,8 @@ export default function Projects() {
           tags={['next.js (static generation)', 'mdx', 'vercel', 'stripe']}
         >
           <p>
-            My gamedev tutorials. Uses the same platform as RPG Adventures, but showcases my tutorial making and
-            technical writing skills.
+            My gamedev tutorials. Uses the same platform as RPG Adventures, but
+            showcases my tutorial making and technical writing skills.
             <br />
             2300+ YouTube subscribers.
           </p>
@@ -83,9 +92,14 @@ export default function Projects() {
           tags={['next.js', 'react', 'aws', 'graphql', 'prisma', 'nexus']}
         >
           <p>
-            My CS MSc project. Instagram-inspired web application that helps art students to regularly practice their
-            drawing skills. See the detailed project report{' '}
-            <a href="/files/Sketch%20Club%20Project%20Report.pdf" target="_blank" rel="noopener noreferrer">
+            My CS MSc project. Instagram-inspired web application that helps art
+            students to regularly practice their drawing skills. See the
+            detailed project report{' '}
+            <a
+              href="/files/Sketch%20Club%20Project%20Report.pdf"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
               here
             </a>
             . <br />
@@ -100,8 +114,8 @@ export default function Projects() {
           tags={['python', 'django', 'bootstrap', 'jquery']}
         >
           <p>
-            Discovery platform for educational videos. Old project, no longer maintained, but it had 37,000 visitors per
-            month at its peak.
+            Discovery platform for educational videos. Old project, no longer
+            maintained, but it had 37,000 visitors per month at its peak.
           </p>
         </ProjectCard>
 
@@ -111,7 +125,10 @@ export default function Projects() {
           img={'/projects/helix.png'}
           tags={['react', 'redux', 'node', 'express']}
         >
-          <p>A habit tracking app - simple, but I think it turned out pretty well, I’m proud of its design.</p>
+          <p>
+            A habit tracking app - simple, but I think it turned out pretty
+            well, I’m proud of its design.
+          </p>
         </ProjectCard>
 
         <ProjectCard
@@ -120,7 +137,10 @@ export default function Projects() {
           img={'/projects/webacademy.png'}
           tags={['python', 'django', 'bootstrap', 'jquery']}
         >
-          <p>Discover the best tutorials and courses submitted by the programming community.</p>
+          <p>
+            Discover the best tutorials and courses submitted by the programming
+            community.
+          </p>
         </ProjectCard>
 
         <ProjectCard
@@ -146,9 +166,23 @@ export default function Projects() {
           tags={['next.js', 'prisma', 'vercel', 'aws']}
         >
           <p>
-            A publishing platform and a community of digital writers who exchange advice and feedback and help each other get better at writing (early beta, work in progress).
+            A publishing platform and a community of digital writers who
+            exchange advice and feedback and help each other get better at
+            writing (early beta, work in progress).
           </p>
         </ProjectCard>
+        {/* <ProjectCard
+          title="Nexy Labs"
+          href={'https://nexylabs.io'}
+          img={'/projects/nexylabs.png'}
+          tags={['Web Design', 'Web Development', 'Marketing']}
+        >
+          <p>
+            Nexy Labs is an agency that provides a full-range of web design,
+            development, and marketing services, helping people to build,
+            launch, and grow websites and SaaS applications.
+          </p>
+        </ProjectCard> */}
       </div>
     </div>
   )
