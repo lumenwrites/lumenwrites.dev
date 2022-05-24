@@ -18,7 +18,7 @@ export default function Skills() {
           <h2>Backend</h2>
           Next.js, Node, Express, Django, GraphQL, Apollo, Nexus, Prisma,
           MongoDB, Postgres, Supabase.
-          {/* REST APIs, , SQL, Python */}
+          {/* REST APIs, , SQL, Python, */}
         </div>
         <div className="skill">
           <FontAwesomeIcon className="skill-icon" icon={['fas', 'tools']} />
@@ -26,7 +26,7 @@ export default function Skills() {
           AWS, Vercel, Digital Ocean, Linux, <br />
           Git, Webpack, Jest, Docker, Nginx, <br />
           Stripe, Sendgrid, Python, SQL.
-          {/* Sendgrid Jest/Enzyme. Java. */}
+          {/* Sendgrid Jest/Enzyme. Java. Cypress, Storybook */}
         </div>
         <div className="skill">
           <FontAwesomeIcon className="skill-icon" icon={['fas', 'lightbulb']} />
