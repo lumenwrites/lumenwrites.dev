@@ -118,7 +118,7 @@ export default function Projects() {
             maintained, but it had 37,000 visitors per month at its peak.
           </p>
         </ProjectCard>
-{/* 
+
         <ProjectCard
           title="Helix"
           href={'https://helix.startuplab.io'}
@@ -129,7 +129,7 @@ export default function Projects() {
             A habit tracking app - simple, but I think it turned out pretty
             well, I’m proud of its design.
           </p>
-        </ProjectCard> */}
+        </ProjectCard> 
 
         <ProjectCard
           title="Webacademy"
