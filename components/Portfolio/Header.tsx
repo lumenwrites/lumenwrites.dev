@@ -15,14 +15,14 @@ export default function Header() {
       {/* <a href="https://github.com/lumenwrites" target="_blank" rel="noopener noreferrer" className="link">
         github.com/lumenwrites
       </a> */}
-      {/* <a
+      <a
         href="/files/Vladislav%20Podchufarov.pdf"
         target="_blank"
         rel="noopener noreferrer"
         className="cta"
       >
         Hire me (See my CV)
-      </a> */}
+      </a>
     </header>
   )
 }
