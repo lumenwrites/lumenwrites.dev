@@ -22,7 +22,7 @@ export default function Projects() {
           </p>
         </ProjectCard>
 
-        <ProjectCard
+        {/* <ProjectCard
           title="Nulis"
           href={'https://nulis.io'}
           img={'/projects/nulis.png'}
@@ -34,7 +34,7 @@ export default function Projects() {
             <br />
             1500+ users.
           </p>
-        </ProjectCard>
+        </ProjectCard> */}
 
         <ProjectCard
           title="RPG Adventures"
