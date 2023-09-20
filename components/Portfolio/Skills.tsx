@@ -10,20 +10,20 @@ export default function Skills() {
             icon={['fas', 'laptop-code']}
           />
           <h2>Frontend</h2>
-          React, Redux, TypeScript, jQuery, HTML, CSS, JS, Sass, Tailwind,
-          Webflow, UI/UX Design in Figma.
+          React, Redux, TypeScript, Tailwind, Sass, HTML, CSS, JS, jQuery, UI/UX
+          Design in Figma.
         </div>
         <div className="skill">
           <FontAwesomeIcon className="skill-icon" icon={['fas', 'server']} />
           <h2>Backend</h2>
-          Next.js, Node, Express, Django, GraphQL, Apollo, Nexus, Prisma,
-          MongoDB, Postgres, Supabase.
+          Next.js, Prisma, Supabase, Node, Express, Django, GraphQL, Apollo,
+          Nexus, MongoDB, Postgres.
           {/* REST APIs, , SQL, Python, */}
         </div>
         <div className="skill">
           <FontAwesomeIcon className="skill-icon" icon={['fas', 'tools']} />
           <h2>Tools</h2>
-          AWS, Vercel, Digital Ocean, Linux, <br />
+          Vercel, Digital Ocean, Linux, AWS, <br />
           Git, Webpack, Jest, Docker, Nginx, <br />
           Stripe, Sendgrid, Python, SQL.
           {/* Sendgrid Jest/Enzyme. Java. Cypress, Storybook */}
@@ -32,7 +32,7 @@ export default function Skills() {
           <FontAwesomeIcon className="skill-icon" icon={['fas', 'lightbulb']} />
           <h2>Other</h2>
           Technical and creative writing, teaching programming, internet
-          marketing, SEO, 3D graphic design.
+          marketing, 3D graphic design.
           {/* Machine Learning Libraries (scikit-learn, pandas, keras, etc.) */}
           {/* Product management, Business skills */}
         </div>
