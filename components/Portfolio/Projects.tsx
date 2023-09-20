@@ -12,7 +12,7 @@ export default function Projects() {
           title="Writing Streak"
           href={'https://writingstreak.io'}
           img={'/projects/writingstreak.png'}
-          tags={['react', 'redux', 'node', 'express']}
+          tags={['react', 'redux', 'next.js', "prisma", "postgres"]}
         >
           <p>
             Writing and publishing platform that helps writers to build a
@@ -81,7 +81,7 @@ export default function Projects() {
             My gamedev tutorials. Uses the same platform as RPG Adventures, but
             showcases my tutorial making and technical writing skills.
             <br />
-            2300+ YouTube subscribers.
+            3000+ YouTube subscribers.
           </p>
         </ProjectCard>
 
